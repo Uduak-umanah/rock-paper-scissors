@@ -3,7 +3,7 @@
 # Project summary
 This project builds a python program that plays the game of Rock Paper Scissors using the concept of object oriented Programming.
 
-About the game
+# About the game
 in this program you can choose to use one of 4 players that are in the code:
 <ul>
 <li>Human Player: you;
